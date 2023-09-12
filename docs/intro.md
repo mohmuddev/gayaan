@@ -63,3 +63,15 @@ In summary, this documentation is a crucial tool for developers working on the G
 
 <iframe src="https://www.loom.com/embed/3fd289f72f13406cb386cf01568ccb3e?sid=b920ba25-aa4c-44fa-a2f8-9cafd4c3fe5f" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen  style={{ height: '450px', width: '100%' }}></iframe>
 
+
+
+
+
+
+
+:::note
+
+The demo above was recorded from the prototype of the design, which serves as a reference for the interface but does not reflect the actual functionality of the app. Therefore, this documentation will serve as the primary source of instruction for understanding the app's functionality.
+
+:::
+
