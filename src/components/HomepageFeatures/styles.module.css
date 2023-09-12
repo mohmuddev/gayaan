@@ -9,3 +9,9 @@
   height: 200px;
   width: 200px;
 }
+
+
+[class*="toggleButton_node_modules-@docusaurus-theme-classic-lib-theme-ColorModeToggle-styles-module"] {
+  display: none !important;
+}
+
