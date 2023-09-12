@@ -3,7 +3,7 @@ sidebar_position: 1
 ---
 
 ### About the documentation
-This documentation is meant to provide developers with clear instructions and insights into the code flow of the Gayaan App. While we have a prototype design in Figma, <span style={{ color: '#FF3380', fontWeight: 'bold' }}>it may not fully convey</span> the functionality, structure and algorithms that drive the app's operation. This document aims to bridge that gap and ensure developers have a comprehensive understanding of how the app works. Here's how this documentation can help the developer: 
+This documentation is meant to provide developers with clear instructions and insights into the code flow of the Gayaan App. While we have a [prototype design](https://www.figma.com/proto/IH4J2HPlFEfLH0YvSg2vDD/Gayaan_App_Design-(Developer)?type=design&node-id=61-47&t=4iepsjdKwuifOo88-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=66%3A228) in Figma, <span style={{ color: '#FF3380', fontWeight: 'bold' }}>it may not fully convey</span> the functionality, structure and algorithms that drive the app's operation. This document aims to bridge that gap and ensure developers have a comprehensive understanding of how the app works. Here's how this documentation can help the developer: 
 
 
 **1. Understanding Functionality:**
@@ -61,5 +61,5 @@ In summary, this documentation is a crucial tool for developers working on the G
 
 ## App Demo
 
-<iframe src="https://www.loom.com/embed/f53cf89dc0a4422f83df1f5fc1a0fd0c?sid=8d45306b-3263-4a4b-b2a1-5150812438ac" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen  style={{ height: '450px', width: '100%' }}></iframe>
+<iframe src="https://www.loom.com/embed/3fd289f72f13406cb386cf01568ccb3e?sid=b920ba25-aa4c-44fa-a2f8-9cafd4c3fe5f" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen  style={{ height: '450px', width: '100%' }}></iframe>
 
