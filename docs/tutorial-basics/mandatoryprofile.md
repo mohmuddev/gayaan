@@ -116,8 +116,19 @@ Your brief bio? (optional)
  ```
  Your photos?
 ```
+:::note
 
-  ![Alt Text](./img/photos.png)
+Not all photos are uploaded; a photo should include a visible face structure, and if girls are wearing a hijab, it's acceptable as long as their eyes and other facial features are still visible. I need the app to detect face structure.
+
+:::  
+
+:::tip
+
+Certainly, you can use Google's ML Kit for Firebase, which is a suite of machine learning tools provided by Google for mobile and web app development. ML Kit offers a ready-made face detection feature that can be used to detect faces in photos, including cases where individuals are wearing head coverings like hijabs
+
+:::
+
+![Alt Text](./img/photos.png)
 </details>
 
 <details>
