@@ -22,26 +22,48 @@ After the singup, the process of filling signup user profiles starts as follows;
   <summary><b>Step 1: </b>Whats your full name?
 </summary>
 
+```
+ Whats your full name?
+```
+
   ![Alt Text](./img/name.png)
 </details>
 <details>
   <summary><b>Step 2: </b>What's you gender?
 </summary>
 
-  ![Alt Text](./img/gender.png)
+```
+What's you gender?
+```
+
+`Male`  
+`Female`
+
+![Alt Text](./img/gender.png)
 </details>
 
 <details>
   <summary><b>Step 3: </b>Your date of birth?
 </summary>
 
+```
+Your date of birth?
+```
+
   ![Alt Text](./img/DOB.png)
 </details>
 
 <details>
-  <summary><b>Step 4: </b>what is you marital status?
+  <summary><b>Step 4: </b>What is your marital status?
 </summary>
 
+
+```
+What is your marital status?
+```
+
+`Single`
+`Married`
 
 </details>
 
@@ -49,31 +71,51 @@ After the singup, the process of filling signup user profiles starts as follows;
   <summary><b>Step 5: </b>What's your education level?
 </summary>
 
+```
+What's your education level?
+```
+
+`Quranic school`  `primary ` `Secondary` `College` `Undergraduate` `Master's Degree` 
+`Doctoral Degree (Ph.D.)`
+
   ![Alt Text](./img/education.png)
 </details>
 
 
+
 <details>
-  <summary><b>Step 6: </b>what is you profession?
+  <summary><b>Step 6: </b>What is you profession?
 
 </summary>
 
+```
+What is your profession?
+```
+
+`Doctor`    `Teacher`      `Lawyer`    `Engineer`    `Nurse`   `IT`
+`Accountant`   `Police Officer`  `Chef`   `Manager` `Entrepreneur`  `Pilot`   `Electrician`  `SocialWorker` `Journalist` `Driver` `Other`
 
 </details>
 
 
 <details>
-<summary><b>Step 7: </b>your Brief Bio?
-
+<summary><b>Step 7: </b>Your brief bio? (optional)
 </summary>
 
-
+```
+Your brief bio? (optional)
+```
 </details>
 
 <details>
-<summary><b>Step 8: </b>Add photos?
+<summary><b>Step 8: </b>Your photos?
 
 </summary>
+
+
+ ```
+ Your photos?
+```
 
   ![Alt Text](./img/photos.png)
 </details>
@@ -84,7 +126,31 @@ After the singup, the process of filling signup user profiles starts as follows;
 </summary>
 
   ![Alt Text](./img/wllcome.png)
+
+:::note
+
+The Arabic text and its translation change according to the user's gender
+
+```text  title="Male"
+رزقك الله زوجة صالحة ومحبة. آمين
+
+May Allah grant you a righteous and loving wife. Ameen.
+```
+
+```text  title="Female"
+رزقك الله زوجاً صالحاً ومحباً. آمين
+
+May Allah grant you a righteous and loving husband. Ameen.
+```
+ 
+:::
 </details>
+
+:::note
+
+Some screens are not included in the Figma design, but their design is the same as their similar related screens, so copy from them
+
+:::
 
 
 
