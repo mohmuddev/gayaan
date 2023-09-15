@@ -100,29 +100,29 @@ Currently, the content for the terms and policy is not ready, so for the time be
 ====== Begin =========
 
 
-Gayaan - Terms and Policy Agreement
+**Gayaan - Terms and Policy Agreement**
 
 Welcome to Gayaan, a platform designed to connect Somali Muslims seeking life partners for marriage. By using our app, you agree to the following terms and policies:
 
-Community Guidelines: Respect all users and maintain a respectful, inclusive environment. Discrimination or harassment will not be tolerated.
+**Community Guidelines:** Respect all users and maintain a respectful, inclusive environment. Discrimination or harassment will not be tolerated.
 
-Privacy: Protect user privacy at all times. Do not share personal information without consent.
+**Privacy:** Protect user privacy at all times. Do not share personal information without consent.
 
-Sincerity: Use Gayaan with genuine intentions for marriage, not for casual or inappropriate interactions.
+**Sincerity:** Use Gayaan with genuine intentions for marriage, not for casual or inappropriate interactions.
 
-Safety: Report any suspicious or harmful behavior to our support team immediately.
+**Safety:** Report any suspicious or harmful behavior to our support team immediately.
 
 **Age:** Users must be of legal age for marriage in their respective regions.
 
-User Content: Do not post offensive, explicit, or copyrighted content. We reserve the right to remove such content.
+**User Content:** Do not post offensive, explicit, or copyrighted content. We reserve the right to remove such content.
 
-Account Termination: We may suspend or terminate accounts violating our terms without notice.
+**Account Termination:** We may suspend or terminate accounts violating our terms without notice.
 
-Dispute Resolution: Any disputes shall be resolved through arbitration.
+**Dispute Resolution:** Any disputes shall be resolved through arbitration.
 
-Updates: These terms are subject to change; users will be notified of updates.
+**Updates:** These terms are subject to change; users will be notified of updates.
 
-Legal Compliance: Users must adhere to applicable laws while using Gayaan.
+**Legal Compliance:** Users must adhere to applicable laws while using Gayaan.
 
 By using Gayaan, you agree to these terms and policies. Failure to comply may result in account suspension or termination. Thank you for being a part of our community.
 
