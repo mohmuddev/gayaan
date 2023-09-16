@@ -4,6 +4,16 @@ sidebar_position: 12
 
 # Filter Page
 
+<details>
+<summary>
+Filter Image
+</summary>
+
+ ![Alt Text](./img/filter.png)
+</details>
+
+
+
 **Age Range Filter:**
 
 - When users set their preferred age range by specifying a minimum and maximum age and then apply the filter, the matching algorithm will reevaluate the user's potential matches based on this new age range.
