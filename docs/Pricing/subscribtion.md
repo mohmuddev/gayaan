@@ -11,14 +11,10 @@ Subscribed users benefit from a premium plan that grants them unrestricted acces
 Meanwhile, non-subscribed users can utilize their daily free points to initiate `Direct Connects`,albeit with certain limitations. 
 
 :::note
+
+
 For subscribed users, instead of displaying an icon balance on their screen, they have a premium icon.
 
-<details>
-
-<summary>
-Premium icon </summary>
-
-![alt img](./img/Premiumcon.png)
-
-</details>
 :::
+
+oka
