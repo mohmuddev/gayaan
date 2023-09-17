@@ -14,7 +14,14 @@ Meanwhile, non-subscribed users can utilize their daily free points to initiate 
 
 
 For subscribed users, instead of displaying an icon balance on their screen, they have a premium icon.
+<details>
 
+<summary>
+Premium icon
+</summary>
+
+![alt text](./img/Premiumcon.png)
+
+</details>
 :::
 
-oka

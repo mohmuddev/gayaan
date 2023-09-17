@@ -9,12 +9,27 @@ sidebar_position: 23
 2. Pricing for subscription
 
 
-# Pricing for points
-details>
+## Pricing for points
+<details>
 
 <summary>
-Pricing for points </summary>
+Pricing for points
+</summary>
 
-![alt img](./img/pointpricing.png)
+![alt text](./img/pointpricing.png)
+
+</details>
+
+
+## Pricing for subscription
+
+<details>
+<summary>
+Pricing for subscription
+</summary>
+
+![alt text](./img/mothlypricing.png)
+
+![alt text](./img/yearlypricing.png)
 
 </details>
