@@ -4,7 +4,7 @@ sidebar_position: 10
 
 # Home screen elements
 
- ![Alt Text](./img/homelements.png)
+ ![Alt Text](./img/screenelements.png)
 
 
 :::note

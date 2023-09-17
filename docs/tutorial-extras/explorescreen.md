@@ -24,7 +24,7 @@ Let me explain the functionality of each of these tabs:
 The "Liked You" tab stores profiles of users who have expressed interest in you by liking your profile.
 
 <details> 
-<summary> You liked </summary>
+<summary>Liked You</summary>
 
 ![alt img](./img/likeu.png)
 
