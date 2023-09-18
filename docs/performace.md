@@ -39,4 +39,8 @@ Gayaan App needs to utilize Content Delivery Networks (CDNs) to store photos of 
 
 When a user launches the app, our matching algorithms begin searching for suitable matches in the background. As soon as potential matches are found, a brief loading period occurs, after which the matching screen seamlessly opens.
 
-This streamlined approach ensures that users can effortlessly explore all available matches without encountering loading delays. The same principle applies when users interact with the filter screen. After adjusting their filter settings, a loading process initiates, followed by the opening of the matching screen. Users can then smoothly navigate through available matches without the need for additional loading interruptions.
+This streamlined approach ensures that users can effortlessly explore all available matches without encountering loading delays. 
+
+The same principle applies when users interact with the filter screen. After adjusting their filter settings, a loading process initiates, followed by the opening of the matching screen. 
+
+Users can then smoothly navigate through available matches without the need for additional loading interruptions.
