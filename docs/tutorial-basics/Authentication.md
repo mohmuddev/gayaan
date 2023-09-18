@@ -38,19 +38,7 @@ We have two option of singing up:
 ![Alt Text](./img/emailverify2.png)
 </details>
 
-:::note
-<details>
 
-   <summary>
-   The Figma design for the login screen lacks the presence of the Logo    
-   </summary>
-
-  [Download Logo](https://imgur.com/UHDY78W)
-
-   ![Alt Text](./img/logologin.png)
-
-</details>
-:::
 
 
 ## Logout & Device recognition
