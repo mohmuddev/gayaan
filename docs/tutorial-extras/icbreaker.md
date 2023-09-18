@@ -46,7 +46,7 @@ The `Direct Connect` feature in the Gayaan app allows users to initiate a conver
 **Initiating a Direct Connect:**
 
 Users browse through potential matches on the app and come across a profile that interests them.
-When they want to start a conversation with that match, they can click the "Message" or "Connect" button on the matching screen.
+When they want to start a conversation with that match, they can click the `Message` button on the matching screen.
 
 
 **Cost for Direct Connect:**

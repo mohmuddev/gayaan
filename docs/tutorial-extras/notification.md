@@ -28,14 +28,13 @@ sidebar_position: 16
 ## In-App Notifications
 *Internal Notifications, within the App:*
 
-1. **New Message:** Show a notification within the app when users receive a new message while they are actively using it.
 
-2. **New Match:** Display a visual notification within the app when users get new mutual likes or matches.
+1. **New Match:** Display a visual notification within the app when users get new mutual likes or matches.
 
-3. **Activity Updates:** Notify users about profile activity, such as profile views or likes, directly within the app.
+2. **Activity Updates:** Notify users about profile activity, such as profile views or likes, directly within the app.
 
-4. **Reminders:** Provide in-app reminders for actions like completing the profile, sending messages, or attending events.
+3. **Reminders:** Provide in-app reminders for actions like completing the profile, sending messages, or attending events.
 
-5. **Engagement Prompts:** Prompt users to engage with the app by suggesting actions like checking new matches or updating their profile.
+4. **Engagement Prompts:** Prompt users to engage with the app by suggesting actions like checking new matches or updating their profile.
 
 
