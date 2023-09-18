@@ -61,8 +61,7 @@ In summary, this documentation is a crucial tool for developers working on the G
 
 ## App Demo
 
-<iframe src="https://www.loom.com/embed/3fd289f72f13406cb386cf01568ccb3e?sid=b920ba25-aa4c-44fa-a2f8-9cafd4c3fe5f" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen  style={{ height: '450px', width: '100%' }}></iframe>
-
+<iframe src="https://www.veed.io/embed/67d3680b-bce5-4770-a46d-0cfa521a2fe7" width="744" height="504" frameborder="0" title="Gayaan" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 
 
