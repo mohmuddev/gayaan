@@ -20,8 +20,7 @@ sidebar_position: 16
 
 1. **New Message:** Notify users when they receive a new message from another user.
 2. **New Match:** Inform users about new mutual likes or matches, encouraging them to return to the app.
-3. **App Updates:** Notify users about important app updates, new features, or bug fixes.
-4. **Subscription Renewal:** Remind users about upcoming subscription renewals or notify them of successful renewals.
+3. **Subscription Renewal:** Remind users about upcoming subscription renewals or notify them of successful renewals.
 
 
 
@@ -35,6 +34,9 @@ sidebar_position: 16
 
 3. **Reminders:** Provide in-app reminders for actions like completing the profile, sending messages, or attending events.
 
-4. **Engagement Prompts:** Prompt users to engage with the app by suggesting actions like checking new matches or updating their profile.
+4. **App Updates:** Notify users about important app updates, new features, or bug fixes.
+   This is a form of popup screen the incldue update contents and has to button cancel and update
+
+5. **Engagement Prompts:** Prompt users to engage with the app by suggesting actions like checking new matches or updating their profile.
 
 
