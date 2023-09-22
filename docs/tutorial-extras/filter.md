@@ -27,6 +27,3 @@ Profiles of users whose age falls within the selected range will be included in 
 It will exclude profiles of users located in other countries, ensuring that the search results only include profiles from the selected country.
 
 
-**Advanced Filters (Interests, Hobbies, Height, etc.):**
-
-- When users apply advanced filters such as interests, hobbies, and height preferences, the algorithm will consider these additional criteria in the matching process.
