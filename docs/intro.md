@@ -3,74 +3,14 @@ sidebar_position: 1
 ---
 
 ### About the documentation
-This documentation is meant to provide developers with clear instructions and insights into the code flow of the Gayaan App. While we have a ▶️ [prototype design](https://www.figma.com/proto/IH4J2HPlFEfLH0YvSg2vDD/Gayaan_App_Design-(Developer)?type=design&node-id=61-47&t=4iepsjdKwuifOo88-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=66%3A228) in Figma, <span style={{ color: '#FF3380', fontWeight: 'bold' }}>it may not fully convey</span> the functionality, structure and algorithms that drive the app's operation. This document aims to bridge that gap and ensure developers have a comprehensive understanding of how the app works. Here's how this documentation can help the developer: 
+This documentation is meant to provide developers with clear instructions and insights into the code flow of the Gayaan App. While we have a [▶️ prototype design](https://www.figma.com/proto/Gm4RdD1vgYgAN4O30aL48Y/Gayaan_App_Design?type=design&node-id=66-228&t=NKjbjySrT8ZH9rWG-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=66%3A228) in Figma, <span style={{ color: '#FF3380', fontWeight: 'bold' }}>it may not fully convey</span> the functionality, structure and algorithms that drive the app's operation. This document aims to bridge that gap and ensure developers have a comprehensive understanding of how the app works. 
 
 
-**1. Understanding Functionality:**
-
-Developers will gain a deep understanding of the app's functionality beyond the visual design. This includes how data is processed, algorithms employed, and the core logic behind various features.
-
-**2. Code Flow Clarity:**
-
-The documentation will provide a step-by-step breakdown of how the code flows within the app. This helps developers navigate through the application's architecture efficiently.
-
-
-
-**3. Troubleshooting and Debugging:**
-
-
-When issues arise during development, this documentation serves as a valuable reference. It allows developers to pinpoint problems, understand why they occur, and implement effective solutions.
-
-
-**4. Consistency in Development:**
-
-Ensures that all team members follow a consistent approach to development by providing a shared reference point. This consistency is crucial for maintaining code quality.
-
-
-**5. Efficient Development:**
-
-By clearly outlining how different parts of the app work together, developers can work more efficiently, reducing the time required for development.
-
-
-**6. Collaboration:**
-
-Facilitates collaboration among team members as everyone can refer to the same set of instructions and insights. This promotes a cohesive development process.
-
-
-**7. Better Testing:**
-
-Testers can use the documentation to understand the expected behavior of the app, enabling more effective testing and quality assurance efforts.
-
-
-**8. Onboarding New Developers:**
-
-
-When new developers join the project, they can quickly get up to speed by referencing this documentation, reducing the onboarding time.
-
-
-**9. Future Maintenance:**
-
-Beyond development, this documentation remains a valuable resource for maintaining and updating the app in the future. It provides a historical record of how the app works.
-
-
-**10. Confidence in Development:**
-
-Developers can approach their tasks with confidence, knowing that they have a detailed guide to reference. This reduces uncertainty and enhances the overall development experience.
-In summary, this documentation is a crucial tool for developers working on the Gayaan App. It goes beyond the visual design and dives deep into the functionality and algorithms, empowering developers to build the app effectively, efficiently, and with a thorough understanding of how it operates."
 
 
 ## App Demo
 
-<iframe src="https://www.veed.io/embed/67d3680b-bce5-4770-a46d-0cfa521a2fe7" width="744" height="504" frameborder="0" title="Gayaan" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://www.loom.com/embed/e3ff5f4c734a4f8d98e2eb2b8b74ccdd?sid=4ac599ab-19a1-4c67-b25d-3757c51e4f1b" width="100%" height="484" frameborder="0" title="Gayaan" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 
-
-
-
-
-:::note
-
-The demo above was recorded from the prototype of the design, which serves as a reference for the interface but does not reflect the actual functionality of the app. Therefore, this documentation will serve as the primary source of instruction for understanding the app's functionality.
-
-:::
 
