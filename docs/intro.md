@@ -3,7 +3,7 @@ sidebar_position: 1
 ---
 
 ### About the documentation
-This documentation is meant to provide developers with clear instructions and insights into the code flow of the Gayaan App. While we have a [prototype design](https://www.figma.com/proto/IH4J2HPlFEfLH0YvSg2vDD/Gayaan_App_Design-(Developer)?type=design&node-id=61-47&t=4iepsjdKwuifOo88-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=66%3A228) in Figma, <span style={{ color: '#FF3380', fontWeight: 'bold' }}>it may not fully convey</span> the functionality, structure and algorithms that drive the app's operation. This document aims to bridge that gap and ensure developers have a comprehensive understanding of how the app works. Here's how this documentation can help the developer: 
+This documentation is meant to provide developers with clear instructions and insights into the code flow of the Gayaan App. While we have a ▶️ [prototype design](https://www.figma.com/proto/IH4J2HPlFEfLH0YvSg2vDD/Gayaan_App_Design-(Developer)?type=design&node-id=61-47&t=4iepsjdKwuifOo88-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=66%3A228) in Figma, <span style={{ color: '#FF3380', fontWeight: 'bold' }}>it may not fully convey</span> the functionality, structure and algorithms that drive the app's operation. This document aims to bridge that gap and ensure developers have a comprehensive understanding of how the app works. Here's how this documentation can help the developer: 
 
 
 **1. Understanding Functionality:**
