@@ -51,7 +51,7 @@ When they want to start a conversation with that match, they can click the `Mess
 
 **Cost for Direct Connect:**
 
-Normally, using the "Direct Connect" feature incurs a cost of 50 Points per connection. This means that each time a user decides to initiate a conversation with a match using this feature, they spend 50 Points from their account.
+Normally, using the "Direct Connect" feature incurs a cost of <span style={{ color: '#FF3380', fontWeight: 'bold' }}>50 Points per connection. </span> This means that each time a user decides to initiate a conversation with a match using this feature, they spend 50 Points from their account.
 
 
 
@@ -63,7 +63,7 @@ The app may have a points system where users can purchase points or earn through
 
 If the user is subscribed to a premium plan (e.g. subscription), they may enjoy the benefit of unlimited `Direct Connects` during the duration of their subscription.
 
-This means that premium plan subscribers do not have to spend 50 Points for each connection. Instead, they can initiate as many conversations as they wish without additional charges.
+This means that premium plan subscribers do not have to spend   50 Points for each connection. Instead, they can initiate as many conversations as they wish without additional charges.
 
 
 

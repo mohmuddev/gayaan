@@ -25,11 +25,22 @@ Pricing for points
 
 <details>
 <summary>
-Pricing for subscription
+Monthly subscription
 </summary>
 
 ![alt text](./img/mothlypricing.png)
 
+</details>
+
+<details>
+
+<summary>
+Yearly Subscription
+</summary>
+
 ![alt text](./img/yearlypricing.png)
 
 </details>
+
+
+
